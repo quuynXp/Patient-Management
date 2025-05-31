@@ -1,6 +1,4 @@
-Awesome! Here is a simple and clean README for the "Patient Management System" project, designed to be easy to read and understand.
-
-🏥 Patient Management System (Technical)
+🏥Patient Management System (Technical)
 The patient management system is built on a modern microservices architecture, focusing on flexibility, scalability, and performance.
 
 🚀 Project Overview
